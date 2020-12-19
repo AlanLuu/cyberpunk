@@ -29,8 +29,8 @@ div {
     font-family: 'Bebas Neue', sans-serif;
     text-align: center;
     color: #ffffff;
+    padding-top: 120px;
     margin: auto;
-    padding-top: 100px;
     padding-bottom: 120px;
     word-wrap: break-word;
 }
@@ -42,7 +42,7 @@ div {
 .button {
     font-weight: bold;
     font-family: 'Pt Serif', sans-serif;
-    padding: 10px 40px 10px 40px;
+    padding: 7px 20px 7px 20px;
 }
 
 .input {
@@ -63,5 +63,9 @@ div {
         width: 100%;
         margin-left: 0px;
         margin-right: 0px;
+    }
+
+    #title {
+        padding-top: 170px;
     }
 }
